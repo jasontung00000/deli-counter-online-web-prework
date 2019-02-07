@@ -5,4 +5,6 @@ def 'Deli Counter' do
   let(:another_deli) { ["Amanda", "Annette", "Ruchi", "Jason", "Logan", "Spencer", "Avi", "Joe", "Rachel", "Lindsey"] }
 
 def line 
-  puts 
+  puts "The line is currently empty."
+end
+end
